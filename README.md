@@ -7,4 +7,5 @@ A program that solve sudoku problems based on a simple constrain propagation and
 
 ### Use
 1. When solving a particular puzzle, please format the raw sudoku in the following format: a) read the puzzle from left to right, top to bottom, b) mark an empty position with a perion ".", and a given position as its number. So the input to the solver should be a single string representation of the puzzle. For example, the first 8 characters of the string input represent the first row of the puzzle. 
-2. Run 'python 
+2. Replace the sudoku puzzle varianble in '__main__' of solver.py. 
+3. Run 'python solver.py' 
